@@ -1,0 +1,23 @@
+{
+  "name": "alf_roles",
+  "version": "1.0.0",
+  "description": "AlF'Roles for AlFa'K#3900",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilian0112",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "ffmepg": "0.0.2-security",
+    "ffmpeg-binaries": "^4.0.0",
+    "forever-monitor": "^1.7.1",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.22.0"
+  }
+}
